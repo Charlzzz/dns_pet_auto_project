@@ -1,0 +1,7 @@
+
+Current url https://www.dns-shop.ru/
+Click sign in
+Input user name
+Input password
+Click login button
+Пришелец-OY74962
